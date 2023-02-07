@@ -1,0 +1,1 @@
+holberton-shell es un repositorio el cual se utiliza para saber los scripts 
