@@ -1,2 +1,2 @@
 #!/bin/bash
--a -l /basics -a -l /root /boot
+-a -l /basic/root/boot
