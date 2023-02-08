@@ -1,2 +1,2 @@
 #!/bin/bash
-ls [A-Z]*
+mv ls [A-Z]* /tmp/
