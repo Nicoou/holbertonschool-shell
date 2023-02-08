@@ -1,2 +1,6 @@
 #!/bin/bash
+<<<<<<< HEAD
 chmod 701 hello
+=======
+chmod 701 u+x hello
+>>>>>>> 0be9f7c686b88734b7bbb88220cc64ea3e2febb3
