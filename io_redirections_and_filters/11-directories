@@ -1,2 +1,2 @@
 #!/bin/bash
-grep -r "ramesh" *
+ls -lR | grep ^d | wc -l
