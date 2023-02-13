@@ -1,2 +1,2 @@
 #!/bin/bash
-ls-lrt io_redirections_and_filters
+ls-lrt |head 1 io_redirections_and_filters
