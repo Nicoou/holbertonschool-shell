@@ -1,3 +1,2 @@
 #!/bin/bash
 rep -v '^[[:alpha:]]' /etc/ssh/sshd_config
-
