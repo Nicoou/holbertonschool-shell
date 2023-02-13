@@ -1,2 +1,2 @@
 #!/bin/bash
-./delFile.sh .js
+rm -f .js */
