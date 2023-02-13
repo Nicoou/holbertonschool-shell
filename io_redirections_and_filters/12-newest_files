@@ -1,2 +1,3 @@
 #!/bin/bash
-ls -lrt |head 10 io_redirections_and_filters
+ls -lrt |head 10
+
