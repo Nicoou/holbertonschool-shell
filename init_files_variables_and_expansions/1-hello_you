@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $USERNAME "hello user"
+echo id "hello user"
